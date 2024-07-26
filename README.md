@@ -1,4 +1,4 @@
-# Obesity prevalence per country
+# Obesity rate per country
 
 Age-standardized prevalence of obesity among adults (18+ years), defined as those who have a body mass index (BMI) greater than 30. The repository contains a line plot of obesity rates for a selection of countries from 1990 to 2022.
 
